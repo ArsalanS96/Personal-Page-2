@@ -1,0 +1,330 @@
+.container h1{
+    font-family: 'Lato', sans-serif;
+}
+
+.divFiller{
+    height:150px;
+}
+
+.jumbotron {
+    height:400px;
+}
+
+.jumbotron .container h1{
+    color:white;
+}
+
+.nav{
+    position:fixed;
+    display:inline-block;
+    width:100%;
+    height:80px;
+    background:url(img/head2.png) no-repeat center center;
+    background-repeat: repeat-x;
+    border-bottom:1px solid #CC0101;
+    z-index:2;
+}
+.divFiller{
+    height:80px;
+    background:url(img/head2.png) no-repeat center center;
+    background-repeat: repeat-x;
+}
+
+.menu{
+    float:right;
+}
+
+.nav li{
+    display:inline-block;
+}
+
+
+#mePhoto{
+    max-width: 90%;
+    display: block;
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;
+    right:100px;
+    bottom:100px;
+    left:5px;
+}
+
+.nav a{
+    color:white;
+    text-shadow:white;
+}
+
+
+.mySkills{
+    height:500px;
+}
+
+.container img{
+    max-width:60%;
+}
+
+
+#logo{
+    max-width:27%;
+    position:relative;
+    left:400px;
+    bottom:13px;
+}
+
+.nav a{
+    font-family: 'Lato', sans-serif;
+    font-size:18px;
+    left:10px;
+    margin-left:16px;
+    position:relative;
+}
+
+.nav ul{
+    margin-top:20px;
+}
+
+#aboutMeDiv{
+    height:440px;
+    margin-top:40px;
+}
+#back{
+    background-color:#F3EFE0;
+    height:2850px;
+}
+
+.footer{
+    background:url(img/head2.png) no-repeat center center;
+    background-repeat: repeat-x;
+    height:50px;
+    z-index:2;
+}
+
+
+.aboutMe p{
+    margin-top:9px;
+    font-size:20px;
+}
+
+.date{
+    float:right;
+    position:relative;
+    right:170px;
+}
+
+#textGroup{
+    top:17px;
+}
+
+.myEdu{
+    margin-top:135px;
+
+}
+
+.myEdu p{
+    font-size:20px;
+}
+
+.edDates{
+    position:relative;
+    left:20px;
+    top:30px;
+    margin-bottom: 40px;
+
+}
+#edP{
+    margin-top:25px;
+    font-size:20px;
+}
+.mySkills p{
+    font-size:16px;
+}
+
+.mySkills li{
+    font-size:16px;
+}
+
+
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+#owl-demo p{
+    font-size:20px;
+    text-align: center;
+    margin-top:5px;
+}
+
+
+
+#phPic{
+    max-width:20%;
+    display:inline;
+    float:left;
+    opacity: 0.4;
+}
+
+#mailPic{
+    max-width:20%;
+    display:inline;
+    float:left;
+}
+
+#rowIc{
+    position:relative;
+    top:20px;
+}
+
+#m{
+    position:relative;
+    left:30px;
+    top:30px;
+}
+
+
+
+#num{
+    position:relative;
+    left:30px;
+    top:30px;
+}
+
+
+#linkedIn{
+    max-width:30%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#github{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    position:relative;
+    bottom:60px;
+}
+#twitter{
+    max-width:40%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.findMe{
+    position:relative;
+    bottom: 350px;
+}
+
+.findMe h1{
+    margin-bottom:20px;
+}
+
+.row1{
+    position:relative;
+    left:160px;
+}
+
+.row2{
+    position:relative;
+    left:160px;
+    top:20px;
+}
+
+.mySkills p{
+    font-size:22px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.mySkills li{
+    font-size:22px;
+}
+
+.mySkills h3{
+    margin-bottom:16px;
+}
+
+.mySkills {
+    margin-top:30px;
+}
+
+.myProjects p{
+    margin-top:20px;
+    font-size:20px;
+    margin-bottom:30px;
+}
+
+.underTxt{
+    margin-top:30px;
+    font-size:28px;
+}
+
+.contactMe p{
+    font-size:26px;
+}
+
+#mailPic{
+    max-width:10%;
+    position: relative;
+    bottom:40px;
+    left:35px;
+}
+
+#mail{
+    margin-top:40px;
+}
+
+
+body{
+    height:2750px;
+}
+
+.findMe h1 {
+    position: relative;
+    left: 20px;
+    top:20px;
+}
+
+.findMe .row{
+    position:relative;
+    left:25px;
+}
+
+.myEdu h1{
+    position:relative;
+    top:30px;
+    margin-bottom:20px;
+}
+
+.myEdu h3{
+    position:relative;
+    top:30px;
+    margin-bottom:40px;
+}
+
+.myProjects{
+    position:relative;
+    top:120px;
+}
+
+
+.contactMe{
+    position:relative;
+    top:150px;
+
+}
+
+.contactMe p{
+    font-size:26px;
+    float:left;
+}
+
+.findMe{
+    position:relative;
+    margin-top:25px;
+}
